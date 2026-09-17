@@ -1,12 +1,14 @@
 <p align="center"><a href="README.md" title="English"><img src="assets/github/language/en-active.svg" width="96" height="40" alt="English"></a><a href="README.zh-CN.md" title="简体中文"><img src="assets/github/language/zh-inactive.svg" width="96" height="40" alt="简体中文"></a><a href="https://shotpal.newtybei.com" title="Official website"><img src="assets/github/language/website-en.svg" width="160" height="40" alt="Official website"></a></p>
 
-<p align="center"><img src="assets/github/en/hero.gif" width="1100" height="606" alt="ShotPal Skill — Your video workspace inside Codex."></p>
+<p align="center"><img src="assets/github/en/hero.gif" width="1100" alt="ShotPal Skill — Your video workspace inside Codex."></p>
 
-<p align="center"><a href="#start"><img src="assets/github/en/information-bar.svg" width="1100" height="132" alt="Environment: Windows / macOS. Technology: HTML. Copy prompt."></a></p>
+<p align="center"><a href="#start"><img src="assets/github/en/information-bar.svg" width="1100" alt="Environment: Windows / macOS. Technology: HTML. Copy prompt."></a></p>
 
 <a name="start"></a>
 
-<p align="center"><img src="assets/github/en/step-1.gif" width="1100" height="825" alt="Step 1: Open Codex and paste the ShotPal skill link and installation prompt."></p>
+### 1. Open Codex and install ShotPal
+
+<p align="center"><img src="assets/github/en/step-1.gif" width="1100" alt="Step 1: Open Codex and paste the ShotPal skill link and installation prompt."></p>
 
 <details>
 <summary>Installation prompt — copy into Codex</summary>
@@ -27,11 +29,17 @@ Preserve my existing libraries, projects and files.
 
 </details>
 
-<p align="center"><img src="assets/github/en/step-2.gif" width="1100" height="825" alt="Step 2: Codex detects the system, prepares tools and models, verifies setup, and opens ShotPal."></p>
+### 2. Prepare tools and models
 
-<p align="center"><img src="assets/github/en/step-3.gif" width="1100" height="825" alt="Step 3: In ShotPal Project Management, create or choose a library folder."></p>
+<p align="center"><img src="assets/github/en/step-2.gif" width="1100" alt="Step 2: Codex detects the system, prepares tools and models, verifies setup, and opens ShotPal."></p>
 
-<p align="center"><img src="assets/github/en/step-4.gif" width="1100" height="825" alt="Step 4: Click Home again to reveal the video library. Wide layouts already show it docked."></p>
+### 3. Choose your project library
+
+<p align="center"><img src="assets/github/en/step-3.gif" width="1100" alt="Step 3: In ShotPal Project Management, create or choose a library folder."></p>
+
+### 4. Click Home to open your video library
+
+<p align="center"><img src="assets/github/en/step-4.gif" width="1100" alt="Step 4: Click Home again to reveal the video library. Wide layouts already show it docked."></p>
 
 ## What is ShotPal Skill?
 
