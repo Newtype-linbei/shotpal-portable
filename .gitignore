@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.before-*
+*.bak
+dist/
+docs/verification/
+!docs/verification/release-status.md
+*.log
+.shotpal-*/
+
+# Local acceptance logs may contain machine and user-project details.
+acceptance/
