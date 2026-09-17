@@ -1,12 +1,8 @@
 <p align="center"><a href="README.md" title="English"><img src="assets/github/language/en-inactive.svg" width="96" height="40" alt="English"></a><a href="README.zh-CN.md" title="简体中文"><img src="assets/github/language/zh-active.svg" width="96" height="40" alt="简体中文"></a><a href="https://shotpal.newtybei.com" title="访问官网"><img src="assets/github/language/website-zh.svg" width="160" height="40" alt="访问官网"></a></p>
 
-<p align="center"><img src="assets/github/zh-CN/hero.gif" width="1100" alt="ShotPal Skill — 在 Codex 内打开拉片工作区。"></p>
-
 <p align="center"><a href="#start"><img src="assets/github/zh-CN/information-bar.svg" width="1100" alt="运行环境：Windows / macOS。技术：HTML。复制指令。"></a></p>
 
 <a name="start"></a>
-
-### 1. 打开 Codex，安装拉片宝
 
 <p align="center"><img src="assets/github/zh-CN/step-1.gif" width="1100" alt="第一步：打开 Codex，粘贴 ShotPal 技能链接与安装指令。"></p>
 
@@ -27,15 +23,9 @@ https://github.com/Newtype-linbei/shotpal-portable
 
 </details>
 
-### 2. 准备工具与模型
-
 <p align="center"><img src="assets/github/zh-CN/step-2.gif" width="1100" alt="第二步：Codex 识别系统、准备工具与模型，验证后打开工作区。"></p>
 
-### 3. 创建或选择素材库
-
 <p align="center"><img src="assets/github/zh-CN/step-3.gif" width="1100" alt="第三步：打开拉片宝，在项目管理中创建或选择素材库。"></p>
-
-### 4. 再次点击主页，展开素材库
 
 <p align="center"><img src="assets/github/zh-CN/step-4.gif" width="1100" alt="第四步：再次点击主页按钮，展开视频素材库；宽屏下素材库直接停靠。"></p>
 
